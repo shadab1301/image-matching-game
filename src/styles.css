@@ -1,0 +1,5 @@
+.card-item-list{
+    display:"flex"; 
+    flex-wrap: "wrap";
+}
+
